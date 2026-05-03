@@ -84,5 +84,5 @@ A telecom company was losing **27% of its customers** with no visibility into wh
 **Sunama Jena** | Data Analyst | MCA, NIST University (CGPA 8.4) | Immediate Joiner
 
 📧 jenasunama5@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/your-linkedin-url)
-📁 [More Projects](https://github.com/suna5171)
+🔗 [LinkedIn](https://www.linkedin.com/in/sunama-jena-562b762a4/)
+
